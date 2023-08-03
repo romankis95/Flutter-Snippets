@@ -1,8 +1,8 @@
 # Flutter Snippets
 
-[![GitHub](https://img.shields.io/badge/GitHub-flutter--snippets-brightgreen)](https://github.com/yourusername/flutter-snippets)
-[![License](https://img.shields.io/github/license/yourusername/flutter-snippets)](https://github.com/yourusername/flutter-snippets/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/yourusername/flutter-snippets)](https://github.com/yourusername/flutter-snippets/stargazers)
+[![GitHub](https://img.shields.io/badge/GitHub-flutter--snippets-brightgreen)](https://github.com/CrownKingClown/flutter-snippets)
+[![License](https://img.shields.io/github/license/CrownKingClown/flutter-snippets)](https://github.com/CrownKingClown/flutter-snippets/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/CrownKingClown/flutter-snippets)](https://github.com/CrownKingClown/flutter-snippets/stargazers)
 
 Welcome to the **Flutter Snippets** repository! This is a collection of the best and most useful code snippets that I use for work with Flutter.
 
